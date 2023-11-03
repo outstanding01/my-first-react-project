@@ -8,7 +8,7 @@ function Navigation() {
   return (
     <Navbar expand="lg" className="bg-body-tertiary">
       <Container>
-        <Navbar.Brand href="#home"><img style={{ width: '30px', height: '20px' }} src="logo512.png" alt="alt"/></Navbar.Brand>
+        <Navbar.Brand href="#home"><img style={{ width: '30px', height: '20px' }} src="/sub/logo512.png" alt="alt"/></Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">

@@ -16,3 +16,14 @@ code {
   display: block;
   text-align: center;
 }
+.mainImgCont {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cardimg {
+  width: 100vw;
+  height: 100vh;
+}

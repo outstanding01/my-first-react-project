@@ -1,6 +1,6 @@
-import CardGroups from "./components/Cards";
 import Navigation from "./components/Navbar";
 import MyHeader from "./components/header";
+import NoTransitionExample from "./components/Cards";
 
 
 
@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <Navigation/>
       <MyHeader/>
-      <CardGroups/>
+      <NoTransitionExample/>
     </div>
     </>
   );
